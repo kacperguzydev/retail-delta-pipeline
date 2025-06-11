@@ -16,9 +16,9 @@ We take retail sales data and process it through 3 stages: **Bronze → Silver �
 ## ✅ Tools Used
 
 - Databricks (Community Edition)
-- PySpark
+- Spark
 - Delta Lake
-- Databricks SQL (dashboards)
+- Databricks SQL 
 
 ---
 
